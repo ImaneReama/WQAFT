@@ -1,0 +1,6 @@
+{
+  "name": "Wqaft Assistance",
+  "description": "Mise en relation instantanée entre automobilistes en panne et mécaniciens à Casablanca.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["real-time-chat", "geo-location", "service-marketplace"]
+}

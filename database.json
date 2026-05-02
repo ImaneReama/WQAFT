@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "meca-1",
+      "email": "meca@wqaft.com",
+      "password": "password",
+      "role": "mecanicien",
+      "name": "Ahmed Mansouri",
+      "phone": "+212 600 000 000",
+      "specialties": ["Moteur", "Embrayage", "Freins"],
+      "workshop": "Mansouri Speed Auto",
+      "location": { "lat": 33.5831, "lng": -7.5898 },
+      "status": "available"
+    },
+    {
+       "id": "auto-1",
+       "email": "auto@wqaft.com",
+       "password": "password",
+       "role": "automobiliste",
+       "name": "Yassine Bahja",
+       "phone": "+212 700 000 000"
+    }
+  ],
+  "requests": [],
+  "messages": [],
+  "interventions": []
+}
